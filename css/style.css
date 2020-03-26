@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+}
+
+li{
+  display: inline;
+ }
+
+.contact{
+    text-align: center;
+}
+
+.stopka{
+    text-align: center;
+    width:100%;
+}
+
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+}
+
+.correct {
+    background-color: #289a27;
+}
+
+.incorrect {
+    background-color: #c41a21;
+}
+
+.buttons {
+    padding: 10px 10px 10px 0;
+}
